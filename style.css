@@ -1,0 +1,28 @@
+#header{
+    background-color: #234653;
+    width: 100%;
+}
+#header-button{
+    background-color: #E76F51;
+}
+#honda-dis{
+    width: 78%;
+}
+#gray{
+    filter: grayscale(100%);
+}
+.card img{
+    width: 98%;
+}
+#clents-img{
+    box-shadow: 0px 0px 5px 1px grey;
+}
+#images{
+    width: 55%;
+}
+.fa-star{
+    color: #E77C40;
+}
+#faq img{
+    width: 98%;
+}
